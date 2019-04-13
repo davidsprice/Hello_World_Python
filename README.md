@@ -21,20 +21,20 @@ cd Quadcopter
 2. Create and activate a new environment.
 
 ~~~~
-conda create -n quadcopter python=3.6 matplotlib numpy pandas keras-gpu
-source activate quadcopter
+conda create -n helloworlpython python=3.6 matplotlib numpy pandas keras-gpu
+source activate helloworldpython
 ~~~~
 
 3. Create an [IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the quadcopter environment.
 
 ~~~~
-python -m ipykernel install --user --name quadcop --display-name "quadcop"
+python -m ipykernel install --user --name helloworldpython --display-name "helloworldpython"
 ~~~~
 
 4. Open the notebook.
 
 ~~~~
-jupyter notebook Quadcopter_Project.ipynb
+jupyter notebook Hello_World_Python.ipynb
 ~~~~
 
 5. Before running code, change the kernel to match the quadcop environment by using the drop-down menu (Kernel > Change kernel > quadcop). Then, follow the instructions in the notebook.
