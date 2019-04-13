@@ -1,21 +1,18 @@
 # Hello_World_Python
-Standard Hello World program in Python
-
-# Quadcopter
-Quadcopter project for the Advanced Machine Learning course of Udacity's Machine Learning nano-degree.
+Standard Hello World program in Python, using Github
 
 ## Target :
-Training a reinforcement learning (RL) agent (quadcopter controller) to learn to fly and perform the defined tasks in direction to maximise reward.
+Learning how to use Python in a Github environment.
 
 ## Problem Type :
-Continuous Control Task
+Very rudimentary effort.
 
 # Project Instructions
 1. Clone the repository and navigate to the downloaded folder.
 
 ~~~~
 git clone https://github.com/davidsprice/Hello_World_Python
-cd Quadcopter
+cd hello_world_python
 ~~~~
 
 2. Create and activate a new environment.
@@ -25,7 +22,7 @@ conda create -n helloworlpython python=3.6 matplotlib numpy pandas keras-gpu
 source activate helloworldpython
 ~~~~
 
-3. Create an [IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the quadcopter environment.
+3. Create an [IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the helloworldpython environment.
 
 ~~~~
 python -m ipykernel install --user --name helloworldpython --display-name "helloworldpython"
