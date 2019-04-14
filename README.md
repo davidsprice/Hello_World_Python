@@ -1,5 +1,5 @@
 # Hello_World_Python
-Standard Hello World program in Python, using Github
+Standard Hello World program in Python, using Github.
 
 ## Target :
 Learning how to use Python in a Github environment.
